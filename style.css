@@ -1,0 +1,12 @@
+h3 {
+  width: 180px;
+  text-align: center;
+}
+
+#left {
+  color: blue;
+}
+
+#right {
+  color: red;
+}
